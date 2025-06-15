@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## Research Interests
 
 My current research interests primarily focus on **FinLLM**, particularly the development of predictive models for various commodities using **Large Language Models (LLMs)** combined with **multimodal data**. I welcome researchers interested in this field to reach out to me for collaboration.
