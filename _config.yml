@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hanfeng Zhou"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hanfeng Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Life is long Gamma."
+  location         : "Beijing"
+  employer         : "AMSS Center for Forecasting Science, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhouhanfeng675[at]gmail.com" 
 
   # Academic websites
   academia         : # URL
